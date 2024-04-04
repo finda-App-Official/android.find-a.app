@@ -1,6 +1,6 @@
 window.onload = () => {
   setTimeout(() => {
     window.location.href =
-      "https://whatsapp.com/channel/0029VaCUqArLCoWtu7qF1I18";
+      "https://play.google.com/store/apps/details?id=de.ncn.finda";
   }, 1000);
 };
