@@ -22,6 +22,7 @@ body {
 .b-content {
   > svg {
     fill: white;
+    color: white;
     height: 15vw;
     width: 15vw;
   }
